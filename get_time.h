@@ -10,10 +10,4 @@
 //FUNCTION TO **PRINT** THE TIME
 int print_time_s();
 
-////FUNCTION TO **RETURN** THE TIME AND PASS IT BACK AS A STRING
-//char* get_time_s(char* buffer, int n);// buffer for asctime_s);
-
-////OLD FUNCTION TO **RETURN** THE DATE AND TIME using localtime AND asctime
-//std::string get_time();
-
 #endif
